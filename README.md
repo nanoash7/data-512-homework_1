@@ -30,7 +30,7 @@ Format:
 
 {  "article": [    {   "project": "",  "article": "",            "granularity": "",            "timestamp": "",            "agent": "",            "views": ""          },         ...      ], ...}
 
-The JSON files are dictionaries where an outkey for each article. Each key maps to an array of JSON objects which hold the monthly pageview data. Each file corresponds to a particular access type (mobile, desktop, cumulative).
+The JSON files are dictionaries with a outkey for each article. Each key maps to an array of JSON objects which hold the monthly pageview data. Each file corresponds to a particular access type (mobile, desktop, cumulative).
 
 ### JPG Files
 visualization1.jpg
